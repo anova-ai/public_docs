@@ -1,0 +1,64 @@
+{
+    "version": "1.0.0",
+    "metadata": {},
+    "tables": {
+        "__NAME__": {
+            "description": "",
+            "columns": {
+                "dimensions": {
+                    "__NAME__": {
+                        "alias": "",
+                        "type": "",
+                        "display_format": "",
+                        "date_format": "",
+                        "description": "",
+                        "values": "",
+                        "nomenclature": "",
+                        "transformation_rules": ""
+                    }
+                },
+                "metrics": {
+                    "__NAME__": {
+                        "alias": "",
+                        "type": "",
+                        "display_format": "",
+                        "description": "",
+                        "aggregation": "",
+                        "nomenclature": "",
+                        "transformation_rules": ""
+                    }
+                }
+            },
+            "default_date_column": "",
+            "primary_key": "",
+            "foreign_keys": [
+                {
+                    "from_column": "",
+                    "to_table": "",
+                    "to_column": "",
+                    "cardinality": "",
+                    "default_join": ""
+                }
+            ],
+            "filter_rules": ""
+        }
+    },
+    "calculated_metrics": {
+        "__NAME__": {
+            "alias": "",
+            "formula": "",
+            "display_format": "",
+            "description": "",
+            "nomenclature": ""
+        }
+    },
+    "filter_rules": "",
+    "drill_down_relationships": "",
+    "additional_context": "",
+    "sql_examples": [
+        {
+            "sql": "",
+            "teaches": ""
+        }
+    ]
+}
