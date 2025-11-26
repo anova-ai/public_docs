@@ -1,0 +1,41 @@
+{
+    "id": "",
+    "casper_id": "",
+    "name": "",
+    "status": "",
+    "meta_data": {
+        "iterations": 0
+    },
+    "context": {
+        "objective": "",
+        "initial_date_range": "",
+        "analysis_instructions": "",
+        "additional_context": "",
+        "benchmark_against": "",
+        "guardrails": "",
+        "additional_filter_rules": ""
+    },
+    "nodes": [
+        {
+            "thinking": "",
+            "data_request": "",
+            "sql": "",
+            "micro_analysis": ""
+        },
+        {
+            "thinking": "",
+            "data_request": "",
+            "sql": "",
+            "micro_analysis": ""
+        }
+    ],
+    "macro_analysis": "",
+    "completion_tokens": 0,
+    "prompt_tokens": 0,
+    "total_tokens": 0,
+    "error": {},
+    "started_at": "",
+    "ended_at": "",
+    "created_at": "",
+    "updated_at": ""
+}
