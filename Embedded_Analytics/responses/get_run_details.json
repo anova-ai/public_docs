@@ -1,6 +1,5 @@
 {
     "id": "",
-    "casper_id": "",
     "name": "",
     "status": "",
     "meta_data": {
@@ -20,12 +19,14 @@
             "thinking": "",
             "data_request": "",
             "sql": "",
+            "data": [],
             "micro_analysis": ""
         },
         {
             "thinking": "",
             "data_request": "",
             "sql": "",
+            "data": [],
             "micro_analysis": ""
         }
     ],
@@ -36,6 +37,7 @@
     "error": {},
     "started_at": "",
     "ended_at": "",
+    "duration": "",
     "created_at": "",
     "updated_at": ""
 }

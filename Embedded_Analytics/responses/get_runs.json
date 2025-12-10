@@ -1,16 +1,20 @@
-[
-    {
-        "id": "",
-        "casper_id": "",
-        "name": "",
-        "started_at": "",
-        "ended_at": ""
-    },
-    {
-        "id": "",
-        "casper_id": "",
-        "name": "",
-        "started_at": "",
-        "ended_at": ""
-    }
-]
+{
+    "runs": [
+        {
+            "id": "",
+            "name": "",
+            "status": "",
+            "created_at": ""
+        },
+        {
+            "id": "",
+            "name": "",
+            "status": "",
+            "created_at": ""
+        }
+    ],
+    "total_count": 2,
+    "limit": 20,
+    "offset": 0,
+    "has_more": true
+}
